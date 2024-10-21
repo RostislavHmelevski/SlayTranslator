@@ -2,7 +2,7 @@ import telebot
 import random
 from telebot import types
 
-bot = telebot.TeleBot('8001867610:AAGSD2sDO1SgKV5CGP5Rxh_G8zQZR_43ZC0')
+bot = telebot.TeleBot('######')
 
 # главное меню
 main_menu = types.ReplyKeyboardMarkup(resize_keyboard=True)
